@@ -1,0 +1,22 @@
+{
+  "placeholderImages": [
+    {
+      "id": "editorial-plan",
+      "description": "A modern building with a clear blue sky",
+      "imageUrl": "https://images.unsplash.com/photo-1574848296471-28f79a036f79?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxtb2Rlcm4lMjBhcmNoaXRlY3R1cmV8ZW58MHx8fHwxNzU4ODM4NDQzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "modern architecture"
+    },
+    {
+      "id": "llm-visualization",
+      "description": "Abstract network visualization",
+      "imageUrl": "https://images.unsplash.com/photo-1666875753105-c63a6f3bdc86?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxkYXRhJTIwdmlzdWFsaXphdGlvbnxlbnwwfHx8fDE3NTg4OTU0NDJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "data visualization"
+    },
+    {
+      "id": "content-blueprint",
+      "description": "Architectural blueprints on a desk",
+      "imageUrl": "https://images.unsplash.com/photo-1721244653546-a96caf5689ef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxhcmNoaXRlY3R1cmFsJTIwYmx1ZXByaW50c3xlbnwwfHx8fDE3NTg4OTQzNjh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "architectural blueprints"
+    }
+  ]
+}
